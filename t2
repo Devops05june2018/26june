@@ -1,0 +1,52 @@
+
+
+1] Add to cart single product:
+
+Test the process of 
+- Add to cart a single product.
+- Verify the product in the cart page and the total/name of the product 
+- Add to cart multiple quantiy of same products and verfiy on the carts page the total amount of the products and the quantity.
+- Verify the quantity button is working on the page and amount is calculated according to products added.
+- Select the same product which was added to cart previously and verify that no new record is created in the cart only the quantity should be updated.
+- Verify the quantiy button is not accepting negative values
+
+2] Add to cart multiple product:
+
+Test the process of 
+- Add multiple products in single quantity and verfiy on the carts page the total amount of the products and the quantity.
+- Add multiple products in multiple quantity and verfiy on the carts page the total amount of the products and the quantity.
+- Verify the quantity button is working and total is update according to the quantity.
+- Add products from different categories and verify the products are displayed in the cart.
+
+3] Cart page:
+
+i)Menu drop-down:
+- Verify total products displayed in the cart.
+- Verify the total amount displayed in the cart.
+- Verify the name of the product is same as it was added in the cart.
+- Verify the name of the product is clickable and redirecting to the correct page.
+- Vreify the UI after opening the dropdown.
+
+ii)Single product
+
+To test the process of :
+- Add single product to cart and total is displayed correct.
+- Increase the quantity of the product and verify the total amount is increasing and decreasing on decreasing the quantity.
+- Remove the product from the cart and verify the total if single product is added.
+- Remoe product wih multiple quantity and verify the product should be removed and not quantity should be reduced.
+
+iii) Multiple product
+
+To test the process of :
+- Add single product to cart and total is displayed correct.
+- Increase the quantity of the product and verify the total amount is increasing and decreasing on decreasing the quantity.
+- Add a product to cart and verify the total in the cart.
+- Remove the product from the cart and verify the total if multiple product is added.
+- Verify the total of the product on the products page and checkout page is in same currency.
+- Click on the update button ad verify the cart is getting updated if any product is added or removed.
+- Verify the checkout button is working and redirecting to correct page.
+- Verify the amount is correct in the checkout page.
+- Verify the currency is same on the checkout page as on the cart page.
+
+
+Thank you
